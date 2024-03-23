@@ -1,0 +1,50 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/paper"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 49998
+            },
+            "model": "customfishing:item/util/splash_water"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 49999
+            },
+            "model": "customfishing:item/util/splash_lava"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 50000
+            },
+            "model": "customfishing:item/util/fishfinder"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 50001
+            },
+            "model": "customfishing:item/bait/simple_bait"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 50002
+            },
+            "model": "customfishing:item/bait/magnetic_bait"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 50003
+            },
+            "model": "customfishing:item/bait/wild_bait"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 50004
+            },
+            "model": "item/paper"
+        }
+    ]
+}

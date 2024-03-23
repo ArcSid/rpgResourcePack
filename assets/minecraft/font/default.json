@@ -1,0 +1,36 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/space_split.png",
+            "ascent": -32768,
+            "height": -66,
+            "chars": [
+                "\u170c"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -5,
+            "chars": [
+                "\u170d"
+            ]
+        },
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/regular_damage.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": ["\u1700\u1701\u1702\u1703\u1704\u1705\u1706\u1707\u1708\u1709\u170A"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/crit_damage.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": ["\u1710\u1711\u1712\u1713\u1714\u1715\u1716\u1717\u1718\u1719\u170B"]
+		}
+    ]
+}

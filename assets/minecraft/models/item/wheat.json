@@ -1,0 +1,16 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/wheat"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/wheat/1"},
+		{"predicate": {"custom_model_data":2}, "model": "item/wheat/2"},
+        {"predicate": {"custom_model_data":3}, "model": "item/wheat/3"},
+        {"predicate": {"custom_model_data":4}, "model": "item/wheat/4"},
+        {"predicate": {"custom_model_data":5}, "model": "item/wheat/5"},
+        {"predicate": {"custom_model_data":6}, "model": "item/wheat/6"},
+        {"predicate": {"custom_model_data":7}, "model": "item/wheat/7"}
+	]
+}
