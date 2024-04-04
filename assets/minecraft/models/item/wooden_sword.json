@@ -6,9 +6,6 @@
     },
    
     "overrides": [
-     { "predicate": {"custom_model_data": 1}, "model": "item/wooden_sword/stone_sword.json"}
-   
+     { "predicate": {"custom_model_data": 1}, "model": "item/wooden_sword/stone_sword"}
     ]
-   
-    
 }
